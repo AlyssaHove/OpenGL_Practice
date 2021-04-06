@@ -1,2 +1,1 @@
-# OpenGL_Practice
-OpenGL practice
+#OpenGL portfolio
